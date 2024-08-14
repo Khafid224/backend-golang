@@ -5,3 +5,6 @@ A. Restful API
 
 2. uji coba store-post
 ![image](https://github.com/user-attachments/assets/fe2158ad-5291-4592-873a-81e962eb5ebd)
+
+3. uji coba detail-post
+![image](https://github.com/user-attachments/assets/e017c677-3c5f-4bb1-91cb-e0e23f0ce139)
