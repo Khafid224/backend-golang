@@ -8,3 +8,6 @@ A. Restful API
 
 3. uji coba detail-post
 ![image](https://github.com/user-attachments/assets/e017c677-3c5f-4bb1-91cb-e0e23f0ce139)
+
+4. uji coba update-post
+![image](https://github.com/user-attachments/assets/4d7491e8-1d18-45a2-a5b7-21f1742cb61d)
