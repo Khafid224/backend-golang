@@ -11,3 +11,6 @@ A. Restful API
 
 4. uji coba update-post
 ![image](https://github.com/user-attachments/assets/4d7491e8-1d18-45a2-a5b7-21f1742cb61d)
+
+5. uji coba delete-post
+![image](https://github.com/user-attachments/assets/675360ae-4f01-4393-a873-be9b36a946b1)
